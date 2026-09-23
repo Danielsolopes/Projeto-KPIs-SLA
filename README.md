@@ -1,4 +1,4 @@
-rojeto de Business Intelligence — Análise de Vendas
+Projeto de Business Intelligence — Análise de Vendas
 Documentação de KPIs para uma solução de BI voltada à performance comercial.
 
 📌 Sobre o Projeto
